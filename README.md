@@ -1,5 +1,7 @@
 # altair-kitchen-sink
 
+> https://joaopalmeiro.github.io/altair-kitchen-sink/
+
 Sample Altair charts to exemplify Altair themes.
 
 ## Development

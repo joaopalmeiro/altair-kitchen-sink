@@ -29,3 +29,4 @@ jupyter lab
 - `black content/*.ipynb`
 - https://jupyterlite.readthedocs.io/en/latest/howto/content/share.html
 - https://jupyterlite.readthedocs.io/en/latest/howto/content/files.html
+- https://pyodide.org/en/stable/usage/faq.html#how-to-detect-that-code-is-run-with-pyodide

@@ -26,3 +26,4 @@ jupyter lab
 - `conda deactivate` + `conda env remove --name altair-kitchen-sink-dev`
 - `black content/*.ipynb`
 - https://jupyterlite.readthedocs.io/en/latest/howto/content/share.html
+- https://jupyterlite.readthedocs.io/en/latest/howto/content/files.html

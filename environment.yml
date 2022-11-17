@@ -1,0 +1,15 @@
+# https://anaconda.org/conda-forge
+# https://github.com/conda/conda/blob/main/tests/conda_env/support/advanced-pip/environment.yml
+
+name: altair-kitchen-sink-dev
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7.12
+  - pip=22.0.2
+  - jupyterlab=3.5.0
+  - black-jupyter=22.10.0
+  - altair=4.2.0
+  - vega_datasets=0.9.0
+  - pip:
+      - feedzai-altair-theme==1.1.1

@@ -1,1 +1,5 @@
+# https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html#deploy-a-new-version-of-jupyterlite
+# https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html#extensions
+# https://jupyterlite.readthedocs.io/en/latest/howto/python/packages.html#installing-packages-at-runtime
+
 jupyterlite==0.1.0b14
